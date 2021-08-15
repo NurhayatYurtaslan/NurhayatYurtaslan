@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nurhayat</h1>
-<h3 align="center">A Software Developer an Electrical Electronics Engineer from Kayseri/Turkey</h3>
+<h3 align="center"> Electrical Electronics Engineer from Kayseri/Turkey</h3>
 
 <!--
 **NurhayatYurtaslan/NurhayatYurtaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
