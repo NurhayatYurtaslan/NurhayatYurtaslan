@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Nurhayat</h1>
+<h3 align="center">A Software Developer an Electrical Electronics Engineer from Kayseri/Turkey</h3>
 
 <!--
 **NurhayatYurtaslan/NurhayatYurtaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NurhayatYurtaslan" alt="NurhayatYurtaslan" /></a> </p>
+
+<p align="center">
+	<a href="https://github.com/NurhayatYurtaslan">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rbeyzas&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="rbeyzas"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbeyzas&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="rbeyzas"/>
+	</a>
+</p>
