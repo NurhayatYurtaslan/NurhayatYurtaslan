@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋 I'm Nurhayat</h1>
-<h3 align="center"> Electrical Electronics Engineer from Balıkesir/Turkey</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nurhayat!" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EAF70A&center=true&vCenter=true&width=600&height=30&lines=Electrical+Electronics+Engineer+from+Bal%C4%B1kesir%2FTurkey" alt="Typing SVG" /></a>
+</p>
+
 
 <!--
 **NurhayatYurtaslan/NurhayatYurtaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +30,7 @@ Here are some ideas to get you started:
    <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
    
-
+</p>
 
   <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=NurhayatYurtaslan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" style="height: 50%; width: auto;">
@@ -33,6 +39,6 @@ Here are some ideas to get you started:
 
 
 
-</p>
+
 
 
