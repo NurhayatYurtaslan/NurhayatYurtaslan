@@ -36,7 +36,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurhayatYurtaslan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" style="height: 50%; width: auto;">
 </div> 
 
-![snake gif](https://github.com/NurhayatYurtaslan/NurhayatYurtaslan/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
