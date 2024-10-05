@@ -4,29 +4,32 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EAF70A&center=true&vCenter=true&width=800&height=30&lines=Research+and+Developer+Engineer+from+Bal%C4%B1kesir%2FTurkey" alt="Typing SVG" /></a>
-</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Statistic:</h2>
+<div align="center">
+<a href="https://github.com/NurhayatYurtaslan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NurhayatYurtaslan&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurhayatYurtaslan&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurhayatYurtaslan&theme=github_dark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NurhayatYurtaslan&theme=github-compact"/>
+
+
+
+<div class="center">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Game:</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NurhayatYurtaslan&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/NurhayatYurtaslan/github-widgetbox)
-  
-   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-   
-</p>
-
-  <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurhayatYurtaslan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" style="height: 50%; width: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurhayatYurtaslan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" style="height: 50%; width: auto;">
-</div> 
-
+</div>
 
 
 
