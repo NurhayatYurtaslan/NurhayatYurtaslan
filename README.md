@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nurhayat!" alt="Typing SVG" /></a>
 </p>
 
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EAF70A&center=true&vCenter=true&width=800&height=30&lines=Research+and+Developer+Engineer+from+Bal%C4%B1kesir%2FTurkey" alt="Typing SVG" /></a>
 
@@ -30,6 +31,9 @@
 
 
 </div>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
