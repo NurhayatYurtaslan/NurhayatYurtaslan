@@ -30,14 +30,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-</div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=NurhayatYurtaslan&label=Profile%20Views&color=11&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 
 
