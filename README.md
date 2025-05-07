@@ -23,19 +23,19 @@
 
 <div align="center">
 <a href="https://github.com/NurhayatYurtaslan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NurhayatYurtaslan&theme=nightowl" height="130em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurhayatYurtaslan&theme=nightowl" height="130em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurhayatYurtaslan&theme=nightowl" height="130em" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NurhayatYurtaslan&theme=nightowl" height="130em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NurhayatYurtaslan&theme=nightowl" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurhayatYurtaslan&theme=nightowl" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurhayatYurtaslan&theme=nightowl" height="200em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NurhayatYurtaslan&theme=nightowl" height="200em" />
 </div>
 <br>
   
 <div align="center">
   <a href="https://github.com/NurhayatYurtaslan">
-    <img src="https://github-readme-stats.vercel.app/api?username=NurhayatYurtaslan&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" width="435em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NurhayatYurtaslan&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" width="328em"/>
   </a>
   <a href="https://github.com/NurhayatYurtaslan">
-    <img src="https://streak-stats.demolab.com?user=NurhayatYurtaslan&theme=nightowl" alt="Streak Stats" width="460"/>
+    <img src="https://streak-stats.demolab.com?user=NurhayatYurtaslan&theme=nightowl" alt="Streak Stats" width="350"/>
   </a>
 
 </div>
@@ -43,8 +43,16 @@
   <br>
   
   <div align="center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NurhayatYurtaslan&theme=nightowl" width="905"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NurhayatYurtaslan&theme=nightowl" width="690"/>
 </div>
+</details>
+
+
+<details>
+  <summary> <h2>🏆GitHub Trophies</h2></summary>
+  <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NurhayatYurtaslan&theme=algolia&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15">
+  </div>
 </details>
 
 <details>
@@ -58,11 +66,6 @@
 </picture>
 </details>
 
-<details>
-  <summary> <h2>🏆GitHub Trophies</h2></summary>
-  <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NurhayatYurtaslan&theme=algolia&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15">
-  </div>
-</details>
+
 
 
