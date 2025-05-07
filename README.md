@@ -1,9 +1,9 @@
 <!-- Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=C792EA&background=011627&center=true&vCenter=true&width=990&lines=Hi+%F0%9F%91%8B+I'm+Nurhayat!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=C792EA&background=011627&center=true&vCenter=true&width=1050&lines=Hi+%F0%9F%91%8B+I'm+Nurhayat!">
 </p>
 
-<div style="max-width: 500px; overflow: hidden; display: flex; align-items: center;">
+<div style="max-width: 600px; overflow: hidden; display: flex; align-items: center;">
   <!-- Profile Picture -->
   <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
